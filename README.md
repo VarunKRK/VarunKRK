@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on roles for data scientist/analyst, Machine learning engineer.
-- 📫 How to reach me kotavarunkumarreddy@gmail.com
+- 📫 How to reach me vkrkota01@gmail.com
 
 <!---
 VarunKRK/VarunKRK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
